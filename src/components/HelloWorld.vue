@@ -18,7 +18,7 @@ export default {
   data () {
     return {
       options: {  //配置项  
-          source:'rtmp://live-play.ksdy8.cn/onlive/bonlive?auth_key=1583498928-0-0-99851a06b8c993080acdee061708936f',
+          source:'rtmp://58.200.131.2:1935/livetv/hunantv', // 湖南卫视直播地址
           // useFlashPrism: true, // 指定flash播放器
       },
     
