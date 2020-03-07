@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> 阿里云npm包：https://www.npmjs.com/package/vue-aliplayer-v2
+
 ## Build Setup
 
 ``` bash
